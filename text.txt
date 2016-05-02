@@ -1,0 +1,16 @@
+I have the data of city crime rate , household income, education of each postal code (zipcode) and i need to do the KNN Clustering. to see the nearest possible outcome of zipcode(postal code).
+
+So like I am looking for to choose a good neighborhood to rent or but house so like for example if user want the zipcode 11101 so it will also shou the nearest possible outcome zipcode
+
+I have the data in newyork city crime rate graduation rate household in come of each zipcode
+
+
+After I have done the knn clutering part I have to give it to the other person who is dealing with android, android will read the data so like people who will use the app they will enter a zipcode it will show the result of the graduation rate gousehold income and crime rate, which is k means algorithm, someone is dealing with the k means algorith clustering so knn clustering will show the nearest somilar outcome zipcode. 
+
+Output: If user enter one zipcode it will show three other similar outcome zipcode and and the output will show the each zipcode result. which is in the file. I just want my algorithm works properly and giving me the right output. you will see in the csv file there is 4 colum so each zipcode outcome will show the result.what is in the file.  
+
+Ref-Source-Hints
+http://scikit-learn.org/stable/modules/neighbors.html
+http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+https://www.dataquest.io/blog/k-nearest-neighbors/
+
